@@ -7,4 +7,4 @@
     <img src="https://skillicons.dev/icons?i=py,cpp,django,redis,postgres,linux,bash,git,arduino,docker&perline=5" />
   </a>
 </p >
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alerzs&show_icons=true&theme=dark&locale=en" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alerzs&show_icons=true&theme=light&locale=en" /></p>
