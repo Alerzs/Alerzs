@@ -29,10 +29,15 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a></p>
 
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alerzs&show_icons=true&theme=tokyonight&locale=en" alt="alerzs" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alerzs&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="alerzs" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alerzs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alerzs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
+
+<img src="https://raw.githubusercontent.com/Alerzs/Alerzs/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
