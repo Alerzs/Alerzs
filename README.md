@@ -55,7 +55,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,django,flask,postgres,redis,html,css,tailwind,js,docker,nginx,linux&theme=dark&perline=6" />
-  <img src="https://skillicons.dev/icons?i=py,django,flask,postgres,redis,html,css,tailwind,js,docker,nginx,linux&theme=light&perline=6" alt="Python, Django, Flask, PostgreSQL, Redis, HTML, CSS, Tailwind, JavaScript, Docker, Nginx, Linux" />
+  <img src="https://skillicons.dev/icons?i=py,django,flask,postgres,redis,html,css,tailwind,js,docker,nginx,linux&theme=light&perline=6" alt="Python, React, Django, PostgreSQL, Redis, Tailwind, JavaScript, Docker, Nginx, Linux" />
 </picture>
 
 </div>
